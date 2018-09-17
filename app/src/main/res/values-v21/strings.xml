@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AquioChloieLab2</string>
+    <string name="styles_and_material_design">Styles and Material Design</string>
+    <string name="ace_water_spa">ACE WATER SPA</string>
+    <string name="location_399_del_monte_ave_quezon_city">Location: 399 Del Monte Ave., Quezon City</string>
+    <string name="distance_2_7_km_away_from_ust">Distance: 2.7 km away from UST</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+    <string name="todo">TODO</string>
+</resources>
